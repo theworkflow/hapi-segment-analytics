@@ -1,0 +1,22 @@
+{
+  "name": "hapi-segment",
+  "version": "0.0.0",
+  "description": "Hapi plugin to track request and pre-response data to Segment.IO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hapi",
+    "segment",
+    "analytics",
+    "tracking",
+    "request"
+  ],
+  "author": "Jeremiah Harlan <jeremiah.harlan@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": "6.10.x",
+    "npm": "4.6.x"
+  }
+}
