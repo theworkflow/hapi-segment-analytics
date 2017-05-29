@@ -1,6 +1,6 @@
 {
   "name": "hapi-segment-analytics",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Hapi plugin to track request and pre-response data to Segment.IO",
   "main": "index.js",
   "scripts": {
